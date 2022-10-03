@@ -19,3 +19,11 @@ _
 -src/main/java/me/devksh930/lec02/Lec02Main.kt,f/1/f198f1688ab059268f160a2c0a164f8f6f0e65a5
 \
 ,src/main/java/me/devksh930/lec01/Person.java,d/4/d4c9efdfc1ef95f8faa65d7fea9b50127fc3da0a
+\
+,src/main/java/me/devksh930/lec02/Person.java,a/a/aa7764b4ef85ab623fec068a6ff4f940d59fcf94
+`
+0src/main/java/me/devksh930/lec02/PlatFromType.kt,0/e/0e7328bc352a15b63fad99d98369cc149e0bfde1
+]
+-src/main/java/me/devksh930/lec03/Lec03Main.kt,1/b/1bc300893b840347bdf688fa0a47dc2bf4f2e818
+_
+/src/main/java/me/devksh930/lec03/Lec03Main.java,3/5/3569f145fbdb536fb00b8ab0d3101835cc83c14a
